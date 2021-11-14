@@ -1,0 +1,17 @@
+{
+  "name": "04-tareasapp",
+  "version": "1.0.0",
+  "description": "Aplicacion de tareas en consola",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Andres Felipe Saumet",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
